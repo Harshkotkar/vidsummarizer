@@ -1,0 +1,12 @@
+# Deactivate current environment
+deactivate
+
+# Create new virtual environment
+python -m venv env
+
+# Activate the new environment
+# On Windows:
+.\env\Scripts\activate
+
+# Install all required packages
+pip install -r requirements.txt

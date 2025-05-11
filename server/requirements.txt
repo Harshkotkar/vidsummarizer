@@ -1,0 +1,8 @@
+Flask==2.3.3
+flask-cors==4.0.0
+requests==2.31.0
+yt-dlp==2023.10.7
+openai-whisper==20231117
+python-dotenv==1.0.0
+torch==2.0.1
+transformers==4.36.2
