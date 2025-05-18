@@ -2,6 +2,24 @@
 
 VidSummarize is a web application that provides concise summaries of YouTube videos. It extracts key topics, quotes, and insights to help users quickly understand video content without watching the entire video.
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+*The main page where users can paste YouTube video URLs and select their preferred language for summaries.*
+
+### How to Use
+![How to Use](screenshots/how-to-use.png)
+*Step-by-step instructions for using the VidSummarize application.*
+
+### Summary View
+![Summary View](screenshots/summary-view.png)
+*Displays the generated summary along with key topics, quotes, and insights extracted from the video.*
+
+### Video Assistant
+![Video Assistant](screenshots/video-assistant.png)
+*Interactive assistant that answers questions about the video content based on the generated summary.*
+
 ## Features
 
 - Extract YouTube video metadata (title, channel, duration, etc.)
