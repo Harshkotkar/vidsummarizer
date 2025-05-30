@@ -69,7 +69,7 @@ const App = () => {
         setSuggestedQuestions(getRandomQuestions());
     }, []);
     
-    const API_KEY = "AIzaSyB6Ea0jr6J1arlTM4WWrqfG_FJL_Jtilw4"; 
+    const API_KEY = "youtube api"; 
 
     const formatDuration = (duration) => {
         const match = duration.match(/PT(\d+H)?(\d+M)?(\d+S)?/);
